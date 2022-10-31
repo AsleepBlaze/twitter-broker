@@ -1,0 +1,7 @@
+/.DS_Store
+/vendor/
+*.pyc
+/__pycache__/
+/.idea/
+virtual.py
+.parameters
